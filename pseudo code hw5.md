@@ -7,11 +7,11 @@
     - Description columnm will be size 10
     - Savebutton column will be size 1 -->
 
-Set up and event handler for our save button
-    <!-- - Listen for clicks on each time blocks save button -->
-    <!-- - Save information to local storage. -->
+<!-- Set up and event handler for our save button
+    - Listen for clicks on each time blocks save button 
+     Save information to local storage. -->
 
-Load any saved datat from localStorage
+<!-- Load any saved datat from localStorage -->
 
 <!-- Figure out how to create our text area for the description -->
 
